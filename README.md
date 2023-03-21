@@ -7,3 +7,5 @@ ChatGPT / GPT 4 plugin for UnrealEngine
 - Call GetCompletionFromResponse() on success to get the returned string
 
 ![image](https://user-images.githubusercontent.com/45898571/226530327-9ef72331-8d5e-483f-bc26-ddef7173c36f.png)
+
+https://platform.openai.com/docs/guides/chat/introduction
